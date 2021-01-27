@@ -8,6 +8,8 @@ namespace git_inci
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+            Console.WriteLine("eae git");
+            Console.ReadLine();
         }
     }
 }
